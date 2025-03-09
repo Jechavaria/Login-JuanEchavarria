@@ -20,3 +20,14 @@ C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2025-1\Herramientas de programaci
 C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2025-1\Herramientas de programacion 2\LoginV1\LoginV1\obj\Debug\LoginV1.csproj.CoreCompileInputs.cache
 C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2025-1\Herramientas de programacion 2\LoginV1\LoginV1\obj\Debug\LoginV1.exe
 C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2025-1\Herramientas de programacion 2\LoginV1\LoginV1\obj\Debug\LoginV1.pdb
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2025-1\Herramientas de programacion 2\Prueba repo\Login\LoginV1\bin\Debug\LoginV1.exe.config
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2025-1\Herramientas de programacion 2\Prueba repo\Login\LoginV1\bin\Debug\LoginV1.exe
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2025-1\Herramientas de programacion 2\Prueba repo\Login\LoginV1\bin\Debug\LoginV1.pdb
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2025-1\Herramientas de programacion 2\Prueba repo\Login\LoginV1\obj\Debug\LoginV1.csproj.AssemblyReference.cache
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2025-1\Herramientas de programacion 2\Prueba repo\Login\LoginV1\obj\Debug\LoginV1.FrmInicioDeSesion.resources
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2025-1\Herramientas de programacion 2\Prueba repo\Login\LoginV1\obj\Debug\LoginV1.frmBienvenido.resources
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2025-1\Herramientas de programacion 2\Prueba repo\Login\LoginV1\obj\Debug\LoginV1.Properties.Resources.resources
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2025-1\Herramientas de programacion 2\Prueba repo\Login\LoginV1\obj\Debug\LoginV1.csproj.GenerateResource.cache
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2025-1\Herramientas de programacion 2\Prueba repo\Login\LoginV1\obj\Debug\LoginV1.csproj.CoreCompileInputs.cache
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2025-1\Herramientas de programacion 2\Prueba repo\Login\LoginV1\obj\Debug\LoginV1.exe
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2025-1\Herramientas de programacion 2\Prueba repo\Login\LoginV1\obj\Debug\LoginV1.pdb
